@@ -1,0 +1,5 @@
+mysql-connector-python
+tk
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-mysql
